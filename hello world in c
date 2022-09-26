@@ -18,3 +18,23 @@ return 0;
 //Remember: The compiler ignores white spaces. However, multiple lines makes the code more readable & looks good.
 //Line 6: return 0 ends the main() function.
 //Line 6: Do not forget to add the closing curly bracket } to actually end the main function in a c language.
+
+
+//in c we use printf function to print text,char,num on screen,we can print as many line as we want to print.
+//Tip: Two \n characters after each other will create a blank line & \n breack the code into new line.
+
+//The newline character (\n) is called an escape sequence, and it forces the cursor to change its position to the beginning of
+the next line on the screen. This results in a new line.
+
+Escape Sequence           	    Description 	
+
+  \t                        	Creates a horizontal tab 	
+  \\ 	                        Inserts a backslash character (\) 	
+  \" 	                        Inserts a double quote character
+  
+//Comments can be used to explain code, and to make it more readable. It can also be used to prevent execution when testing alternative code.
+
+Comments can be singled-lined or multi-lined.
+
+//singleline comment ://
+//multiline comment :/*write in this & run code smoothly*/
